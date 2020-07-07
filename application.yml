@@ -1,2 +1,4 @@
-config
-  name: hello
+spring:
+  cloud:
+    config:
+      name: hello
